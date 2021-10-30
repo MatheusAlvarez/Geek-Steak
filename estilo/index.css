@@ -1,0 +1,125 @@
+    /* Informações linha preta */
+        .info-preto{
+            background: #0f0f0f;
+            color: #000000;
+            padding: 20px 0;
+            text-align: center;
+            font-weight: 100;
+        }
+
+        .dis-margin{
+            display: inline-block;
+            margin: 20px 20px;
+        }
+
+        .avaliacao{
+            width: 350px;
+            height: 250px;
+            border: 3px solid red;
+            border-radius: 20px;
+        }
+
+        .img-avaliacao{
+            border-radius: 50%;
+        }
+    /* Fim Informações da linha preta */
+
+    /* Seção Imagens */
+        .fundo-restaurante{
+            width: 100%;
+            height: 100%;
+        }
+
+        .prato-carne{
+            width: 230px;
+            height: 170px;
+        }
+
+        .prato-batata{
+            width: 250px;
+            height: 200px;
+        }
+
+        .prato-refrigerante{
+            width: 250px;
+            height: 150px;
+        }
+
+        .prato-sobremesa{
+            width: 230px;
+            height: 180px;
+        }
+
+        .fundo-neon{
+            width: 100%;
+            height: 100%;
+        }
+
+        /* Ícones famosos */
+        .neymar, .md-chefe, .gus-lima{
+            width: 100px;
+            height: 100px;
+        }
+
+        .galvao{
+            width: 100px;
+            height: 95px;
+        }
+
+    /* Fim Seção Imagens */
+
+    /* Seção Textos */
+
+        h3, h4{
+            color: white;
+            font-size: 25px;
+        }
+
+        p{
+            color: white;
+        }
+
+        h1{
+            color: white;
+            font-size: 35px;
+        }
+
+        h2{
+            color: red;
+            font-size: 40px;
+            animation: animate 10s linear infinite;
+        }
+
+        @keyframes animate{
+            from{
+                filter: hue-rotate(0deg);
+            }
+            to{
+                filter: hue-rotate(360deg);
+            }
+        }
+    /* Fim seção H */
+
+    .display-block{
+        display: block;
+    }
+
+
+    .center{
+        text-align: center;
+    }
+
+    /* Seção Jogo */
+        .fundo-jogo{
+            background-image: url(../image/fgame.jpg);
+            background-repeat: no-repeat;
+            background-size: 100%;
+            background-position: center;
+        }
+
+        .mario{
+            width: 50%;
+            height: 50%;
+        }
+    
+    /* FIm seção Jogo */
