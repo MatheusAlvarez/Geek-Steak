@@ -6,9 +6,9 @@
 
 https://matheusalvarez.github.io/Geek-Steak/
 
-Site de um restaurante desenvolvido em grupo no (SENAI), utilizando HTML e CSS
+Site de um restaurante desenvolvido em Squad no (SENAI), utilizando HTML e CSS
 
-(Devido a quantidade de arquivos, não foi possível postar o projeto completo. Então, conectamos a página através dos links gerados pelo github de cada integrante do grupo).
+Obs: Devido a quantidade de arquivos, não foi possível postar o projeto completo. Então, conectamos a página através dos links gerados pelo github de cada integrante do grupo.
 
 ## Layout
 ![GK1](https://github.com/MatheusAlvarez/Geek-Steak/blob/main/_assets/GK1.PNG)
@@ -20,7 +20,7 @@ Site de um restaurante desenvolvido em grupo no (SENAI), utilizando HTML e CSS
 - HTML
 - CSS
 
-# Autor
+# Autor do repositório
 
 Matheus Maia Alvarez
 
