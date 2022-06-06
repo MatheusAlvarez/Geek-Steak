@@ -3,7 +3,6 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
 
 # Sobre o projeto
-
 https://matheusalvarez.github.io/Geek-Steak/
 
 Site de um restaurante desenvolvido em Squad no (SENAI), utilizando HTML e CSS
