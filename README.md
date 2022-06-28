@@ -20,7 +20,6 @@ Obs: Devido a quantidade de arquivos, não foi possível postar o projeto comple
 - CSS
 
 # Autor do repositório
-
 Matheus Maia Alvarez
 
 https://br.linkedin.com/in/matheus-maia-alvarez-
